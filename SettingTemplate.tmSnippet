@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>*** Settings ***
+${1:Library or Source(Done, press Tab)}          ${2:Library_Name}</string>
+	<key>name</key>
+	<string>VariableTemplate</string>
+	<key>scope</key>
+	<string>text.robotframework</string>
+	<key>tabTrigger</key>
+	<string>s</string>
+	<key>uuid</key>
+	<string>5EE37108-2B67-4AC2-BA0A-D81114578CF9</string>
+</dict>
+</plist>

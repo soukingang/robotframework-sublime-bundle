@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>*** Test Cases ***
+${1:CaseTitle(Done, press Tab)}
+    ${2:keyword(Done, Press Tab)}  ${3:Parameter(If more, press space twice, then input another)}</string>
+	<key>name</key>
+	<string>TestCaseTemplate</string>
+	<key>scope</key>
+	<string>text.robotframework</string>
+	<key>tabTrigger</key>
+	<string>t</string>
+	<key>uuid</key>
+	<string>62AD609F-B655-4245-A4E7-383F1D325079</string>
+</dict>
+</plist>

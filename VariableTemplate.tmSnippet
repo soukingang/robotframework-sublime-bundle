@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>*** Variables ***
+${1:Variable_Name(Done, press Tab)}          ${2:Variable_Value}</string>
+	<key>name</key>
+	<string>VariableTemplate</string>
+	<key>scope</key>
+	<string>text.robotframework</string>
+	<key>tabTrigger</key>
+	<string>v</string>
+	<key>uuid</key>
+	<string>9B97B7D6-BA9E-4EE0-B164-2A121E4C4611</string>
+</dict>
+</plist>

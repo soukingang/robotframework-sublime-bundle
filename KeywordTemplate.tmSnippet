@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>*** Keywords ***
+${1:Keyword_Name(Done, press Tab)}
+    ${2:Sub_keyword(Done, Press Tab)}  ${3:Parameter(If more, press space twice, then input another)}</string>
+	<key>name</key>
+	<string>KeywordTemplate</string>
+	<key>scope</key>
+	<string>text.robotframework</string>
+	<key>tabTrigger</key>
+	<string>k</string>
+	<key>uuid</key>
+	<string>DA860E82-6C94-4422-9126-39B443FD2281</string>
+</dict>
+</plist>
