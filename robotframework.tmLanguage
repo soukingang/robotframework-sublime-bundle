@@ -8,7 +8,7 @@
 	</string>
 	<key>fileTypes</key>
 	<array>
-		<string>txt</string>
+		<string>robot</string>
 	</array>
 	<key>name</key>
 	<string>RobotFramework</string>
